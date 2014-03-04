@@ -17,7 +17,7 @@ import org.apache.hadoop.util.GenericOptionsParser;
 
 /**
  * 该job分析/mobile/queryQuanPublishBySearch方法，可以知道客户对哪些圈子比较感兴趣，用于圈子推荐。
- * @author user
+ * @author uohzoaix
  *
  */
 public class CBASearchJob {
