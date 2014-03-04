@@ -22,7 +22,7 @@ import org.apache.hadoop.util.GenericOptionsParser;
 
 /**
  * 计算newData和newData3的点击数
- * @author user
+ * @author uohzoaix
  *
  */
 public class CBAHitsByAppMapRed {
