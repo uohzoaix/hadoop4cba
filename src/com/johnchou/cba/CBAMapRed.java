@@ -18,7 +18,7 @@ import org.apache.hadoop.util.GenericOptionsParser;
 
 /**
  * 该类计算用户对订阅和为订阅的品种的点击数,包括点击父类时的计算（这时子类品种那一列为null，如果是点击子类则父类品种那一列为null），
- * @author user
+ * @author uohzoaix
  *
  */
 public class CBAMapRed {
