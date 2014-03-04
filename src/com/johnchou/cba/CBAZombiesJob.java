@@ -23,7 +23,7 @@ import org.apache.hadoop.util.GenericOptionsParser;
 
 /**
  * 该类计算不活跃客户
- * @author user
+ * @author uohzoaix
  *
  */
 public class CBAZombiesJob {
