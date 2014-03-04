@@ -27,7 +27,7 @@ import org.apache.hadoop.util.GenericOptionsParser;
  * 11			23			NULL		1		2013-11-20
  * 11			NULL		1			2		2013-11-20
  * @author uohzoaix 
- */
+ */ 
 public class CBACombineJob {
 
 	public static class CBAMap extends Mapper<LongWritable, Text, Text, IntWritable> {
