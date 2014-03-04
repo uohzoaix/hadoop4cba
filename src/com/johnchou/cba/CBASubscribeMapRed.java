@@ -25,7 +25,7 @@ import org.apache.hadoop.util.GenericOptionsParser;
  * 11			2			1			NULL	2013-11-20
  * 该类计算的就是第四行的clickNum值，该值等于第三行的clickNum，因为第四行的parentID等于第三行的parentID，并且productID不为NULL
  * productID为NULL表示点击的是父类
- * @author user
+ * @author uohzoaix
  *
  */
 public class CBASubscribeMapRed {
