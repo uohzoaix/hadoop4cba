@@ -22,7 +22,7 @@ import org.apache.hadoop.util.GenericOptionsParser;
 
 /**
  * 该类计算每小时的点击数量
- * @author user
+ * @author uohzoaix
  *
  */
 public class CBAHitsByHourMapRed {
