@@ -20,7 +20,7 @@ import org.apache.hadoop.util.GenericOptionsParser;
 
 /**
  * 该类用于实现商家之间的推荐，输入文件为subscribeandclick
- * @author user
+ * @author uohzoaix
  *
  */
 public class CBARecommendation {
