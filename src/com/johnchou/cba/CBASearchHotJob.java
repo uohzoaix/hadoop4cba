@@ -22,7 +22,7 @@ import redis.clients.jedis.Jedis;
 
 /**
  * 搜索热词榜，可用于客户搜索提醒（按得分高低排序）
- * @author user
+ * @author uohzoaix
  *
  */
 public class CBASearchHotJob {
