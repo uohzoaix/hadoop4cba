@@ -26,7 +26,7 @@ import org.apache.hadoop.util.GenericOptionsParser;
  * 11			2			NULL		5		2013-11-20
  * 11			23			NULL		1		2013-11-20
  * 11			NULL		1			2		2013-11-20
- * @author user
+ * @author uohzoaix 
  */
 public class CBACombineJob {
 
