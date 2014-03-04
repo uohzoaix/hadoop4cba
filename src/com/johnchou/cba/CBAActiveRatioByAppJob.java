@@ -16,7 +16,7 @@ import org.apache.hadoop.util.GenericOptionsParser;
 
 /**
  * 该类计算不活跃客户的比例
- * @author user
+ * @author uohzoaix
  *
  */
 public class CBAActiveRatioByAppJob {
